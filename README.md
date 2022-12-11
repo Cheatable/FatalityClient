@@ -3,11 +3,11 @@
 </p>
 
 # Info
-Fatality Client is an MCBE Utility mod made by: Cheatable
+Fatality Client is an MCBE Utility mod pretended to be made by: Cheatable, but in reality he's like 7 and doesn't know how to code jack shit
 
-Fatality Client is a fork of the Packet Client which is a fork of the Horion Client
+Fatality Client is a skid of a skid of horion client which is ironic asf that anyone would even skid packet's shitty code
 
-You can download the runnable version here:
+You can download the compiled version here:
 https://www.mediafire.com/file/imxceo9ou8osm18/FatalityLatest.dll/file
 
 
