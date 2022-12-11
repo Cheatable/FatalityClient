@@ -17,5 +17,3 @@ The Packet developers
 srxfiq#7759
 
 NRG#4200
-
-z98#3636
