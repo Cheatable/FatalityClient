@@ -3,16 +3,18 @@
 </p>
 
 # Info
-Packet Client is an MCBE Utility mod made by: Packet, Deq and Founder
+Fatality Client is an MCBE Utility mod made by: Cheatable
 
-Packet Client is a fork of the Horion Client
+Fatality Client is a fork of the Packet Client which is a fork of the Horion Client
 
 
 ## Credits
 
 The original Horion developers
 
-Steve's Noob#2585
+The Packet developers
+
+srxfiq#7759
 
 NRG#4200
 
