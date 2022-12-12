@@ -3,7 +3,7 @@
 </p>
 
 # Info
-Fatality Client is an MCBE Utility mod made by: Cheatable
+Fatality Client is an MCBE Utility mod made by: Srxfiq and Cheatable
 
 Fatality Client is a fork of the Packet Client which is a fork of the Horion Client
 
